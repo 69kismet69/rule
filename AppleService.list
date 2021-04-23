@@ -14,3 +14,5 @@ DOMAIN,ppq.apple.com // Enterprise App validation
 # TestFlight
 DOMAIN,beta.apple.com
 DOMAIN,testflight.apple.com
+
+DOMAIN-SUFFIX, push.apple.com
