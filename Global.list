@@ -365,12 +365,46 @@ DOMAIN-SUFFIX, stockx.com
 DOMAIN-SUFFIX, quantummetric.com
 DOMAIN-SUFFIX, riskfield.com
 
+#snapchat
+DOMAIN-SUFFIX, sc-cdn.net
+DOMAIN-SUFFIX, snapchat.com
+#castro
+DOMAIN-SUFFIX, supertop.co
+DOMAIN-SUFFIX, amplitude.com
 
-DOMAIN-SUFFIX, 
-DOMAIN-SUFFIX, 
-DOMAIN-SUFFIX, 
-DOMAIN-SUFFIX, 
-DOMAIN-SUFFIX, 
+#bloomberg
+DOMAIN-SUFFIX, bloomberg.com
+
+
+DOMAIN-SUFFIX, cloudflare.com
+DOMAIN-SUFFIX, wsj.com
+DOMAIN-SUFFIX, cbsnews.com
+DOMAIN-SUFFIX, cbs.com
+DOMAIN-SUFFIX, wsj.net
+DOMAIN-SUFFIX, hypb.st
+DOMAIN-SUFFIX, disqus.com
+DOMAIN-SUFFIX, hypebeast.com
+DOMAIN-SUFFIX, flipboard.com
+DOMAIN-SUFFIX, s-nbcnews.com
+DOMAIN-SUFFIX, motherjones.com
+DOMAIN-SUFFIX, adjust.com
+#ca times
+DOMAIN-SUFFIX, brightspotcdn.com
+DOMAIN-SUFFIX, latimes.com
+DOMAIN-SUFFIX, accuweather.com
+#wa post
+DOMAIN-SUFFIX, washpost.com
+DOMAIN-SUFFIX, washingtonpost.com
+DOMAIN-SUFFIX, wpdigital.net
+
+DOMAIN-SUFFIX, expedia.com
+DOMAIN-SUFFIX, trvl-media.com
+DOMAIN-SUFFIX, branch.io
+DOMAIN-SUFFIX, travel-assets.com
+DOMAIN-SUFFIX, uniservice.com
+DOMAIN-SUFFIX, unsplash.com
+DOMAIN, unsplash.ghost.io
+
 
 
 
