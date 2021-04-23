@@ -28,6 +28,7 @@ DOMAIN-SUFFIX,dropbox.com
 DOMAIN-SUFFIX,dropboxapi.com
 DOMAIN-SUFFIX,dropboxusercontent.com
 # > Facebook
+
 DOMAIN-SUFFIX,cdninstagram.com
 DOMAIN-SUFFIX,facebook.com
 DOMAIN-SUFFIX,facebook.net
@@ -189,22 +190,7 @@ DOMAIN-SUFFIX,smartmailcloud.com
 DOMAIN-SUFFIX,weebly.com
 DOMAIN-SUFFIX,twitter.jp
 
-# (Region-Restricted Access Denied)
-# ---(Apple)---
-# > Apple URL Shortener
-DOMAIN-SUFFIX,appsto.re
-# > iBooks Store download
-DOMAIN,books.itunes.apple.com
-# > App Store Preview
-DOMAIN,apps.apple.com
-DOMAIN,itunes.apple.com
-# > Spotlight
-DOMAIN,api-glb-sea.smoot.apple.com
-# > Look Up
-DOMAIN-SUFFIX,smoot.apple.com
-DOMAIN,lookup-api.apple.com
-# > Apple Music Web
-DOMAIN,beta.music.apple.com
+
 # ------
 # > Others
 DOMAIN-SUFFIX,bing.com
@@ -359,5 +345,34 @@ DOMAIN-SUFFIX,twitch.tv
 DOMAIN-SUFFIX,twitchcdn.net
 
 #My recent encounters
-DOMAIN, api.medium.com
+DOMAIN-SUFFIX, medium.com
+DOMAIN-SUFFIX, medium.systems
+DOMAIN-SUFFIX, audible.com
+#路透社
+DOMAIN-SUFFIX, pubapp.network
+DOMAIN-SUFFIX, onetrust.io
+DOMAIN-SUFFIX, reuters.tv
+DOMAIN-SUFFIX, reuters.com
+DOMAIN-SUFFIX, reuters.demdex.net
+
+#ub dic
+DOMAIN-SUFFIX, urbandictiondary.com
+#stockx
+DOMAIN-SUFFIX, segment.io
+DOMAIN-SUFFIX, leanplum.com
+DOMAIN-SUFFIX, datadoghq.com
+DOMAIN-SUFFIX, stockx.com
+DOMAIN-SUFFIX, quantummetric.com
+DOMAIN-SUFFIX, riskfield.com
+
+
+DOMAIN-SUFFIX, 
+DOMAIN-SUFFIX, 
+DOMAIN-SUFFIX, 
+DOMAIN-SUFFIX, 
+DOMAIN-SUFFIX, 
+
+
+
+
 
