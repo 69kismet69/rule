@@ -406,7 +406,8 @@ DOMAIN-SUFFIX, uniservice.com
 DOMAIN-SUFFIX, unsplash.com
 DOMAIN, unsplash.ghost.io
 
-
+#机场
+DOMAIN-SUFFIX, yiyo.io
 
 
 
